@@ -22,8 +22,8 @@ public class Main {
                     "\n " +
                     "\n1.- Peso Chileno (CLP) a Dolar (USD)." +
                     "\n2.- Dolar (USD) a Peso Chileno (CLP)." +
-                    "\n3.- Peso Chileno (CLP) a Peso Argentino (ARG)." +
-                    "\n4.- Peso Argentino (ARG) a Peso Chileno (CLP)." +
+                    "\n3.- Peso Chileno (CLP) a Peso Argentino (ARS)." +
+                    "\n4.- Peso Argentino (ARS) a Peso Chileno (CLP)." +
                     "\n5.- Salir" +
                     "\n " +
                     "\n**************************************************************");
@@ -45,7 +45,7 @@ public class Main {
                 case "5":
                     System.out.println("Saliendo...");
                     input.close();
-                    return; // Exit the program
+                    return;
                 default:
                     System.out.println("Opción no válida. Intente de nuevo.");
             }
