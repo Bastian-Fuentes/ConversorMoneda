@@ -12,7 +12,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         HttpClient cliente = HttpClient.newHttpClient();
         Gson gson = new Gson();
-        String apiKey = "c92dca1df3437d3fbb886f93";
+        String apiKey = "tu_key_de_api";
 
 
 
