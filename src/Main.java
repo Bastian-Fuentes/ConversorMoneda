@@ -37,10 +37,10 @@ public class Main {
                     convertir(cliente, apiKey, "USD", "CLP");
                     break;
                 case "3":
-                    convertir(cliente, apiKey, "CLP", "ARG");
+                    convertir(cliente, apiKey, "CLP", "ARS");
                     break;
                 case "4":
-                    convertir(cliente, apiKey, "ARG", "CLP");
+                    convertir(cliente, apiKey, "ARS", "CLP");
                     break;
                 case "5":
                     System.out.println("Saliendo...");
