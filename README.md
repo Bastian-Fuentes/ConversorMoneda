@@ -22,4 +22,5 @@ Este proyecto es un conversor de divisas desarrollado en Java como un desafio en
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Bastian-Fuentes/ConversorMoneda.git
+   
